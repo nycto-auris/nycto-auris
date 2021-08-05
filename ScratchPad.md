@@ -20,6 +20,7 @@
 - Never ever use stop limits again. Use conditional stops or stop orders
 - Don't fight the trend. 
 - Don't hold things if they show clear signs of weakness. get out early and cut your losses. better to watch it bounce and run without you than to ride it down to your maxumim loss. 
+- Do not tight stop loss until price breaks up into next channel.
 
 
 
@@ -91,8 +92,8 @@
 
 
 Some external resources that help:
-https://investmentu.com/position-size-calculator/
-https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts
-https://finviz.com/map.ashx
-https://www.floatchecker.com/
-https://shortsqueeze.com/?symbol=spy&submit=Short+Quote%E2%84%A2
+- https://investmentu.com/position-size-calculator/
+- https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts
+- https://finviz.com/map.ashx
+- https://www.floatchecker.com/
+- https://shortsqueeze.com/?symbol=spy&submit=Short+Quote%E2%84%A2
