@@ -232,4 +232,22 @@
         - T3 - 25%
             - After T1/T2 have been exited sell T3 if the stock makes another new high or if momentum slows or shows weakness in the trend. 
 
-            
+### TTG Triangle(ABCD) ###
+
+    - Morning Setup
+
+        - Checklist
+            - Strong stock
+                - The TTG triangle forms mostly on strong stocks that gap up in the morning and/or off news catalyst with out of ordinary volume. 
+            - Initila Morning High(IMH)
+                - The first pullback in the morning, real pullback, on a 3/5min chart. Wait for a pullback
+            - High Volume Break
+                - After the IMH you want to see big volume breakup up through the IMH. The higher the vol the better chance IMH has of becoming support.
+            - Initial High Support
+                - Look for IMH to become support. You want to see it bounce, trade above, and establish a support area.
+            - Down Trend Resistance Line
+                - You want to see lower highs that create a down trend line with decreasing volume. this creates a descending trianlge above the initial morning high support level.
+            - Down Trend Reistance Breakout
+                - You want to see the stock break the trend with an increase in volume. The heavier the vol the better chance you have a continuation and followthrough. 
+                - A good 1st take profit can be in front of HOD. 
+    
