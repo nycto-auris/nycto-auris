@@ -6,7 +6,7 @@
 - always have at least 2:1 ration
 - never risk more than 1%
 - Don't fight the trend
-- entry on pull backs or breakouts after pull backs. 
+- entry on pull backs, breakouts after pull backs or consolidations. 
 - don't chase mike with more than 50% size.
 - Do not trade advanced level without hotkeys.
 - No entering trades in the last 30min of the day.
