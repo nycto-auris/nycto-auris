@@ -235,7 +235,6 @@
 ### TTG Triangle(ABCD) ###
 
 - Morning Setup
-
     - Checklist
         - Strong stock
             - The TTG triangle forms mostly on strong stocks that gap up in the morning and/or off news catalyst with out of ordinary volume. 
