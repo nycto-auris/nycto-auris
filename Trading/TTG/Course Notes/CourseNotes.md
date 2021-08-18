@@ -97,7 +97,7 @@
 - Price Types
     - Market:buy or sell a security at the best current price
     - Market on Close: buy or sell a security as a market order as close to possible to the close of the trading of the day. 
-    Stop on Quote: buy or sell a security when its market price reaches a specified stop price. When the securities market price reaches the stop price the order is triggered and turns into a market order. 
+    - Stop on Quote: buy or sell a security when its market price reaches a specified stop price. When the securities market price reaches the stop price the order is triggered and turns into a market order. 
     - Stop Limit on Quote: buy or sell a security when its market price reaches a specified stop price. When the securities market price reaches the stop price the order is triggered and turnes into a limit order. 
     - Trailing Stop $: buy or sell a security when its market price reaches a trailing stop price. The trailing stop price is initially specified in terms of points above or below market price. The trailing stop price is automatically adjusted as the market fluctuates.
     - Trailing Stop %: Buy or sell a secuirty when its market price reaches a trailing stop price. The Trailing stop price is initially specified in terms of percentage above or below market price. The trailing stop price is automatically adjusted as the market fluctuates. 
@@ -183,7 +183,7 @@
 
 ### Tier Trading Strategy ###
 
-    - Originally designed to help funds enter and exit very large positions, the tier system can help retail traders improve risk management while maximzing their reward. The concept behind it is to enter and exit trades in stages rather than all at once.
+- Originally designed to help funds enter and exit very large positions, the tier system can help retail traders improve risk management while maximzing their reward. The concept behind it is to enter and exit trades in stages rather than all at once.
 
     - Why Tier Trading in and out?
         - Stay in winning trades longer
