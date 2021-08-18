@@ -250,9 +250,7 @@
             - You want to see the stock break the trend with an increase in volume. The heavier the vol the better chance you have a continuation and followthrough. 
             - A good 1st take profit can be in front of HOD. 
 
-
 - Trade Execution
-
     - Buying
         - Once the IMH has been broken through and confirmed support with a strong quick tail you can then go long with your stop loss below IMH.
         - Preferrably you want to enter a T1 position as close to support of IMH as possible but you need to see strong volume when that IMH is broken. If not then the TTG Triangle has a greater chance of failing. The stronger the break, the better the odds of IMH becoming support and the pattern triggering.
@@ -267,7 +265,6 @@
         - do not wait for the stock to pull in to sell your final position. Sell on the exstension.
 
 - Afternoon Setup
-
     - The afternoon setup is based on a previous hod where the morning is based on the IMH. 
     - These setups will pullback and float around on low lunchtime volume. This give your much more time to find your entry and get in closer to support. 
 
