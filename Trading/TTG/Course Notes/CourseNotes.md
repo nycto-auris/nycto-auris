@@ -236,41 +236,41 @@
 
 - Morning Setup
 
-        - Checklist
-            - Strong stock
-                - The TTG triangle forms mostly on strong stocks that gap up in the morning and/or off news catalyst with out of ordinary volume. 
-            - Initila Morning High(IMH)
-                - The first pullback in the morning, real pullback, on a 3/5min chart. Wait for a pullback
-            - High Volume Break
-                - After the IMH you want to see big volume breakup up through the IMH. The higher the vol the better chance IMH has of becoming support.
-            - Initial High Support
-                - Look for IMH to become support. You want to see it bounce, trade above, and establish a support area.
-            - Down Trend Resistance Line
-                - You want to see lower highs that create a down trend line with decreasing volume. this creates a descending trianlge above the initial morning high support level.
-            - Down Trend Reistance Breakout
-                - You want to see the stock break the trend with an increase in volume. The heavier the vol the better chance you have a continuation and followthrough. 
-                - A good 1st take profit can be in front of HOD. 
+    - Checklist
+        - Strong stock
+            - The TTG triangle forms mostly on strong stocks that gap up in the morning and/or off news catalyst with out of ordinary volume. 
+        - Initila Morning High(IMH)
+            - The first pullback in the morning, real pullback, on a 3/5min chart. Wait for a pullback
+        - High Volume Break
+            - After the IMH you want to see big volume breakup up through the IMH. The higher the vol the better chance IMH has of becoming support.
+        - Initial High Support
+            - Look for IMH to become support. You want to see it bounce, trade above, and establish a support area.
+        - Down Trend Resistance Line
+            - You want to see lower highs that create a down trend line with decreasing volume. this creates a descending trianlge above the initial morning high support level.
+        - Down Trend Reistance Breakout
+            - You want to see the stock break the trend with an increase in volume. The heavier the vol the better chance you have a continuation and followthrough. 
+            - A good 1st take profit can be in front of HOD. 
 
 
 - Trade Execution
 
-        - Buying
-            - Once the IMH has been broken through and confirmed support with a strong quick tail you can then go long with your stop loss below IMH.
-            - Preferrably you want to enter a T1 position as close to support of IMH as possible but you need to see strong volume when that IMH is broken. If not then the TTG Triangle has a greater chance of failing. The stronger the break, the better the odds of IMH becoming support and the pattern triggering.
-            - If the stock holds above the IMH with a strong tail on lower volume, making lower highs, then breaks out of that trend/pattern, then you can add T2 and/or T3 as volume increases for confirmation.
-            - If things are moving very quickly then its find to enter T1 and T2 inside the triangle then add on the break out. make sure to use the same stop.
-            - Once you have a breakout on strong vol you can then add your T3 after the new hod.
+    - Buying
+        - Once the IMH has been broken through and confirmed support with a strong quick tail you can then go long with your stop loss below IMH.
+        - Preferrably you want to enter a T1 position as close to support of IMH as possible but you need to see strong volume when that IMH is broken. If not then the TTG Triangle has a greater chance of failing. The stronger the break, the better the odds of IMH becoming support and the pattern triggering.
+        - If the stock holds above the IMH with a strong tail on lower volume, making lower highs, then breaks out of that trend/pattern, then you can add T2 and/or T3 as volume increases for confirmation.
+        - If things are moving very quickly then its find to enter T1 and T2 inside the triangle then add on the break out. make sure to use the same stop.
+        - Once you have a breakout on strong vol you can then add your T3 after the new hod.
         
-        - Selling
-            - After a stock has broken out its safe to sell a T1 to ensure minimal losess. 
-            - Volume is your indicator on when to take profit. If you get very strong volume then you can your T2. 
-            - Once you are down to your T3, see if the vol is still increasing. If it is, then hold onto your T3 for the follow through and bump your stop up to below the previous high. 
-            - do not wait for the stock to pull in to sell your final position. Sell on the exstension.
+    - Selling
+        - After a stock has broken out its safe to sell a T1 to ensure minimal losess. 
+        - Volume is your indicator on when to take profit. If you get very strong volume then you can your T2. 
+        - Once you are down to your T3, see if the vol is still increasing. If it is, then hold onto your T3 for the follow through and bump your stop up to below the previous high. 
+        - do not wait for the stock to pull in to sell your final position. Sell on the exstension.
 
 - Afternoon Setup
 
-        - The afternoon setup is based on a previous hod where the morning is based on the IMH. 
-        - These setups will pullback and float around on low lunchtime volume. This give your much more time to find your entry and get in closer to support. 
+    - The afternoon setup is based on a previous hod where the morning is based on the IMH. 
+    - These setups will pullback and float around on low lunchtime volume. This give your much more time to find your entry and get in closer to support. 
 
 
 
