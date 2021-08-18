@@ -234,7 +234,7 @@
 
 ### TTG Triangle(ABCD) ###
 
-    - Morning Setup
+- Morning Setup
 
         - Checklist
             - Strong stock
@@ -252,7 +252,7 @@
                 - A good 1st take profit can be in front of HOD. 
 
 
-    - Trade Execution
+- Trade Execution
 
         - Buying
             - Once the IMH has been broken through and confirmed support with a strong quick tail you can then go long with your stop loss below IMH.
@@ -267,7 +267,7 @@
             - Once you are down to your T3, see if the vol is still increasing. If it is, then hold onto your T3 for the follow through and bump your stop up to below the previous high. 
             - do not wait for the stock to pull in to sell your final position. Sell on the exstension.
 
-    - Afternoon Setup
+- Afternoon Setup
 
         - The afternoon setup is based on a previous hod where the morning is based on the IMH. 
         - These setups will pullback and float around on low lunchtime volume. This give your much more time to find your entry and get in closer to support. 
