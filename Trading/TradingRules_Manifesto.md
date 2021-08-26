@@ -22,3 +22,4 @@
 - Don't hold things if they show clear signs of weakness. get out early and cut your losses. better to watch it bounce and run without you than to ride it down to your maxumim loss. 
 - Do not tighten stop loss until price breaks up into next channel.
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
+- If small caps are not getting follow through then take 50% at first take profit.

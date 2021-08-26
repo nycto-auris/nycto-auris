@@ -1,0 +1,1 @@
+https://trendspider.com/
