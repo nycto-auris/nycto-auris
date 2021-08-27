@@ -30,6 +30,7 @@
     - $SOS
     - $TAOP
     - $BTBT
+    - $NCTY
     
     
 
@@ -38,6 +39,9 @@
     - $HOFV
     - $PLBY
     - $DLPN
+    - $WKEY
+    - $OCG
+    - $ZKIN
 
 
 ### Meme/WSB ###
