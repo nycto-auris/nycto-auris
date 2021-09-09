@@ -3,12 +3,12 @@
 - Do not fall in love or get comfortable with certain stock because it has made you money in the past.
 - Avoid setting stop loss too tight. get a read on the float and determin its pattern of size of jumps. It may require two levels of support. If it does then half your teir one size...but at that point is really worth it? If this is the case then its possible you are looking at a minor support or a bad setup. 
 - Never average down, every time you do, it ends up bad. 
-- always have at least 2:1 ration
+- always have at least 2:1 ratio
 - never risk more than 1%
-- Don't fight the trend
+- Don't fight the trend, the trend is your friend
 - entry on pull backs, breakouts after pull backs or consolidations. 
 - don't chase mike with more than 50% size.
-- Do not trade advanced level without hotkeys.
+- Do not trade advanced level.
 - No entering trades in the last 30min of the day.
 - No tiered entries for day trade plans because its gambling on weaker setups.
 - Positive signs on MACD daily is required for a good setup.
@@ -18,8 +18,8 @@
 - Don't take a trade just to hit a certain daily profit.
 - Play the game for the games sake.
 - Never ever use stop limits again. Use conditional stops or stop orders
-- Don't fight the trend. 
 - Don't hold things if they show clear signs of weakness. get out early and cut your losses. better to watch it bounce and run without you than to ride it down to your maxumim loss. 
 - Do not tighten stop loss until price breaks up into next channel.
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
 - If small caps are not getting follow through then take 50% at first take profit.
+- Look at a stock from both long and short side. What would you do for both plays?
