@@ -23,3 +23,4 @@
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
 - If small caps are not getting follow through then take 50% at first take profit.
 - Look at a stock from both long and short side. What would you do for both plays?
+- Read and verify every order ticket before you place a trade. the wrong order type couyld be devastating.
