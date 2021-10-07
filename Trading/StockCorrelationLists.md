@@ -17,6 +17,13 @@
     - $GM
     - $F
     - $TSLA
+    - $HBLZ
+    - $LINK
+    - $GTEC
+    - $FUV
+    - $WKSP
+    - $KULR
+    - $FRSX
 
 ### Riot ###
 
@@ -31,7 +38,7 @@
     - $TAOP
     - $BTBT
     - $NCTY
-    
+    - $ANY
     
 
 ### NFT ###
