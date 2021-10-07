@@ -1,13 +1,13 @@
 ## Trading Rules/Manifesto ##
-- Do not anticipate a trade line vwap cross on 3min or anticipate support after the cross. Wait for confirmation of support. 
+- Do not anticipate a trade line vwap cross. Wait for confirmation of support. 
 - Do not fall in love or get comfortable with certain stock because it has made you money in the past.
-- Avoid setting stop loss too tight. get a read on the float and determin its pattern of size of jumps. It may require two levels of support. If it does then half your teir one size...but at that point is really worth it? If this is the case then its possible you are looking at a minor support or a bad setup. 
+- Avoid setting stop loss too tight. get a read on the float and determin its pattern of size of jumps then give it some breathing room.
 - Never average down, every time you do, it ends up bad. 
 - always have at least 2:1 ratio
-- never risk more than 1%
+- never risk more than more than you are comfortable losing. Right now with the size of my account I don't feel comfortable losing more than 30$.
 - Don't fight the trend, the trend is your friend
-- entry on pull backs, breakouts after pull backs or consolidations. 
-- don't chase mike with more than 50% size.
+- entry on pull backs after breakouts or reversals only.
+- don't chase Mike.
 - Do not trade advanced level.
 - No entering trades in the last 30min of the day.
 - No tiered entries for day trade plans because its gambling on weaker setups.
@@ -15,9 +15,9 @@
 - Do not check you account balance until after close.
 - No trades during lunch hours unless its highest vol of the day. 
 - make sure you are not trading out of boredom. 
-- Don't take a trade just to hit a certain daily profit.
-- Play the game for the games sake.
-- Never ever use stop limits again. Use conditional stops or stop orders
+- Don't take a trade just to hit a certain daily profit or a certain number of trades per day. Wait for good setups. Don't force it.
+- Play the game for the games sake. The numbers don't matter. Play the charts.
+- Never ever use stop limits.
 - Don't hold things if they show clear signs of weakness. get out early and cut your losses. better to watch it bounce and run without you than to ride it down to your maxumim loss. 
 - Do not tighten stop loss until price breaks up into next channel.
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
