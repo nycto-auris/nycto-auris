@@ -13,7 +13,7 @@
 - No tiered entries for day trade plans because its gambling on weaker setups.
 - Positive signs on MACD daily is required for a good setup.
 - Do not check you account balance until after close.
-- No trades during lunch hours unless its highest vol of the day. 
+- No trades between 11:30AM-2PM CST unless its highest vol of the day. 
 - make sure you are not trading out of boredom. 
 - Don't take a trade just to hit a certain daily profit or a certain number of trades per day. Wait for good setups. Don't force it.
 - Play the game for the games sake. The numbers don't matter. Play the charts.
@@ -24,3 +24,6 @@
 - If small caps are not getting follow through then take 50% at first take profit.
 - Look at a stock from both long and short side. What would you do for both plays?
 - Read and verify every order ticket before you place a trade. the wrong order type could be devastating.
+- No multi-tasking, like being on the phone, while entering a trade or holding a trade unless you are on your final tier and you have a hard stop in place
+- Always confirm setup on the 15min before entering a trade
+- Do not trade stocks with floats under 10mil or over 200mil
