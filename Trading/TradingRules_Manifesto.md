@@ -18,7 +18,6 @@
 - Don't take a trade just to hit a certain daily profit or a certain number of trades per day. Wait for good setups. Don't force it.
 - Play the game for the games sake. The numbers don't matter. Play the charts.
 - Never ever use stop limits.
-- Don't hold things if they show clear signs of weakness. get out early and cut your losses. better to watch it bounce and run without you than to ride it down to your maxumim loss. 
 - Do not tighten stop loss until price breaks up into next channel.
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
 - If small caps are not getting follow through then take 50% at first take profit.
@@ -27,3 +26,5 @@
 - No multi-tasking, like being on the phone, while entering a trade or holding a trade unless you are on your final tier and you have a hard stop in place
 - Always confirm setup on the 15min before entering a trade
 - Do not trade stocks with floats under 10mil or over 200mil
+- Plan your trades, trade your plans.
+- Bump stops up only when the price has moved 2 channles above your entry. This assumes you have taken bulk profit.
