@@ -22,10 +22,9 @@
 - If you are up a dollar on a day trade or a swing then at least take 25% profit.
 - If small caps are not getting follow through then take 50% at first take profit.
 - Look at a stock from both long and short side. What would you do for both plays?
-- Read and verify every order ticket before you place a trade. the wrong order type could be devastating.
+- Read and verify every order ticket before you place a trade. the wrong order type or ticker could be devastating.
 - No multi-tasking, like being on the phone, while entering a trade or holding a trade unless you are on your final tier and you have a hard stop in place
-- Always confirm setup on the 15min before entering a trade
-- Do not trade stocks with floats under 10mil or over 200mil
+- Always confirm positve signes for setup on the 15min before entering a trade
 - Plan your trades, trade your plans.
 - Bump stops up only when the price has moved 2 channles above your entry. This assumes you have taken bulk profit.
 - Stick to your origional stop loss. It always works out better when you do.
