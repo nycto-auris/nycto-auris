@@ -28,3 +28,13 @@
 - Do not trade stocks with floats under 10mil or over 200mil
 - Plan your trades, trade your plans.
 - Bump stops up only when the price has moved 2 channles above your entry. This assumes you have taken bulk profit.
+- Stick to your origional stop loss. It always works out better when you do.
+- Only trade stocks within the follow price ranges
+    - Real: $2-$160
+    - Paper: $2-$20
+- Only trade stocks with the following float ranges
+    - Real: >20mil
+    - Paper: 20mil-60mil
+- When you are up the following amounts then your remaining trades for the day must only be done with %50 position size
+    - Real: $600
+    - Paper: $60
