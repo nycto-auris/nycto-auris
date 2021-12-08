@@ -39,3 +39,4 @@
     - Real: $600
     - Paper: $60
 - Struggling traders focus on how much they are going to make. Succesful traders focus on much they are going to lose if they are wrong.
+- Actually draw out your buying zone on your chart and wait for the price to enter it with a downward tail confirming support and buying pressure after the break. 
