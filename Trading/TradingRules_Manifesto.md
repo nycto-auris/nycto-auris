@@ -38,3 +38,4 @@
 - When you are up the following amounts then your remaining trades for the day must only be done with %50 position size
     - Real: $600
     - Paper: $60
+- Struggling traders focus on how much they are going to make. Succesful traders focus on much they are going to lose if they are wrong.
